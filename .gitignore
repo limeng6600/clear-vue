@@ -1,0 +1,5 @@
+
+*.cmd
+node_modules/
+node_modules/.bin/ansi-html
+.vscode/settings.json
